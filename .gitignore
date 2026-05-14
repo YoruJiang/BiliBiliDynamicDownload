@@ -1,0 +1,7 @@
+__pycache__/
+pics/
+.vscode/
+.claude/
+.bili_credential.json
+.failed_urls.json
+*.json
