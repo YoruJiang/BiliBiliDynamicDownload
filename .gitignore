@@ -3,5 +3,5 @@ pics/
 .vscode/
 .claude/
 .bili_credential.json
-.failed_urls.json
+failed_urls.json
 *.json
